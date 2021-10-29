@@ -1,0 +1,5 @@
+resources/crnn_cs.onnx filter=lfs diff=lfs merge=lfs -text
+resources/frozen_east_text_detection.pb filter=lfs diff=lfs merge=lfs -text
+resources/DB_TD500_resnet18.onnx filter=lfs diff=lfs merge=lfs -text
+resources/DB_TD500_resnet50.onnx filter=lfs diff=lfs merge=lfs -text
+resources/alphabet_94.txt filter=lfs diff=lfs merge=lfs -text
